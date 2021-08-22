@@ -1,7 +1,7 @@
 {
   "name": "food-order-app",
   "version": "1.0.0",
-  "homepage": "https://mustbefail.github.io/",
+  "homepage": "https://mustbefail.github.io/food-order-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
