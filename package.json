@@ -1,7 +1,6 @@
 {
-  "name": "react-complete-guide",
+  "name": "food-order-app",
   "version": "1.0.0",
-  "private": true,
   "homepage": "https://mustbefail.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
