@@ -1,9 +1,8 @@
 .button {
   cursor: pointer;
   font: inherit;
-  border: 1px solid #bbbbbb;
-
   background-color: white;
+  border: 1px solid #bbbbbb;
   color: rgb(77, 77, 77);
   padding: 0.5rem 2rem;
   display: flex;
